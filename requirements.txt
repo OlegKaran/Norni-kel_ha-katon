@@ -1,0 +1,10 @@
+streamlit>=1.35,<2
+Pillow>=10.3,<13
+reportlab>=4.2,<5
+numpy>=1.26,<3
+opencv-python-headless>=4.10,<5
+scikit-image>=0.24,<1
+scikit-learn>=1.5,<2
+torch==2.6.0
+torchvision==0.21.0
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git@dca509fe793f601edb92606367a655c15ac00fdf
